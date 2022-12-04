@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="book_img_description">Book cover</string>
+    <string name="menu_search_title">Search</string>
+    <string name="menu_clear_title">Clear</string>
+    <string name="fetch_failure">Something went wrong… Please try later!</string>
+    <string name="book_authors">Authors: \u00A0</string>
+    <string name="pages_count">Pages: \u00A0</string>
+    <string name="publish_date">Date Published: \n</string>
+    <string name="isbn_number">ISBN: \n</string>
+    <string name="editions">Number of editions: \u00A0</string>
+    <string name="no_info">No information</string>
+</resources>
